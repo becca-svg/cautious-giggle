@@ -52,13 +52,14 @@ img {
     border-radius: 8px;
 }
 .page {
-    background: rgb(236, 195, 223);
+    background: rgb(232, 181, 216);
     padding: 30px;
     border-radius: 10px;
 }
 
 h1 {
     color: #333;
+    text-align: center;
 }
 
 footer {
